@@ -1,0 +1,1 @@
+#Why do we have to learn Git and Linux? How can them help our future and how can we apply  them?  ##1.A project management tool which is free and source-opening.##2.Recording the circumstances of uplaoded version.##3.It is distributed system.##4.It is able to work offline.
